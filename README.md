@@ -26,6 +26,3 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/ritikgarhewal/ritikgarhewal/pacman-output/pacman-contribution-graph.svg" alt="Pacman Contribution Graph" />
 </p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
